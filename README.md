@@ -111,7 +111,7 @@ airflow scheduler
 ## 👤 Author
 
 **Zaid Ali**
-Aspiring Data Engineer | Python | SQL | Apache Airflow | Azure
+Aspiring Software Developer 
 
 ---
 
